@@ -1,6 +1,4 @@
 import ReactPost from "./ReactPost";
-import PostLiked from "./PostLiked";
-
 
 const BulletinBoard = () => {
       const data = [
